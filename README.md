@@ -1,2 +1,3 @@
 # python-project_1
-this is my first repository
+This is my first Git repository.
+Author - Layba Ansari
